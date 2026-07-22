@@ -1,5 +1,9 @@
 # Vault Flasher — releases
 
+![Vault Flasher](masthead.png)
+
+> Pick a stick. Click Flash. Boot a node.
+
 Official download mirror for **Vault Flasher**, the one-click USB flasher for
 [Vault Node](https://ccgnomes.com/vaultnode/) images. Pick a USB stick, click
 Flash — the app downloads the current node image, verifies its SHA-256 against
