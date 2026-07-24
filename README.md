@@ -40,3 +40,14 @@ flashing always requires clicking **Flash** in the app.
 Free to download and use under the **Vault Ecosystem License v1.1** (see
 [LICENSE](LICENSE)). No redistribution or modification. Third-party components:
 see THIRD-PARTY-NOTICES.md attached to each release.
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="brand/vaultsuite-lockup-reversed-2x.png">
+  <img src="brand/vaultsuite-lockup-2x.png" alt="VaultSuite" width="220">
+</picture>
+
+Vault Flasher is part of the **VaultSuite** family — self-hosted, first-party
+tools: [Vault Node](https://ccgnomes.com/vaultnode/), Parley, ReelVault,
+VaultDrive, VaultDocs, and friends.
